@@ -1,5 +1,2 @@
 
 
-## Truth table 
-
-|
